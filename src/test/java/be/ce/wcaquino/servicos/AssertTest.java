@@ -101,4 +101,5 @@ public class AssertTest {
 		Usuario usuario1 = new Usuario("Nando1");
 		Assert.assertNotNull(usuario1);		
 	}
+	
 }
